@@ -13,7 +13,8 @@
 ---
 
 ## 🏅 LeetCode Badges:
-![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=YourLeetCodeUser&theme=dark)
+![50-Day Streak](https://img.shields.io/badge/50-Day%20Streak-brightgreen?style=for-the-badge&logo=github&logoColor=white)
+
 
 ---
 
