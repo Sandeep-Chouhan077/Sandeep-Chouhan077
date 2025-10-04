@@ -4,7 +4,7 @@
 ---
 
 ## 🔥 About Me:
-- 🌱 I’m currently pursuing **BCA** in Computer Science.  
+- 🌱 I’m currently pursuing **BCA** in Computer Application.  
 - 💻 Interested in **Web Development, DSA, Open Source & AI/ML**.  
 - 🏆 Solving problems on **LeetCode, Codeforces, GeeksforGeeks**.  
 - 📫 How to reach me: **sandeep.chouhan9202@gmail.com**  
