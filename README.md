@@ -53,7 +53,7 @@
 
 ---
 
-### 💻 Most Used Languages
+## Most Used Languages
 
 ### 🛠️ Skills Proficiency
 
@@ -61,5 +61,11 @@ Java: ![](https://img.shields.io/badge/Java-90%25-orange?style=flat-square&logo=
 C++: ![](https://img.shields.io/badge/C%2B%2B-40%25-blue?style=flat-square&logo=c%2B%2B)<br>
 HTML: ![](https://img.shields.io/badge/HTML-70%25-red?style=flat-square&logo=html5)<br>
 CSS: ![](https://img.shields.io/badge/CSS-70%25-blue?style=flat-square&logo=css3)
+
+---
+
+
+
+<div align="center">Show ❤️ by starring and forking repositories you find good!</div>
 
 
