@@ -4,7 +4,7 @@
 ---
 
 ## 🔥 About Me:
-- 🌱 I’m currently pursuing **BCA** in Computer Application.  
+- 🌱 I’m currently pursuing **BCA** in Mahakal Institute Of Technology, Ujjain.  
 - 💻 Interested in **Web Development, DSA, Open Source & AI/ML**.  
 - 🏆 Solving problems on **LeetCode, Codeforces, GeeksforGeeks**.  
 - 📫 How to reach me: **sandeep.chouhan9202@gmail.com**  
@@ -35,6 +35,13 @@
 
 
 ---
+
+
+## 📊 GitHub Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sandeep_Chouhan099?theme=dark&animation=true&ext=heatmap)
+
+---
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
