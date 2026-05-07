@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sandeep Chouhan</h1>
-<h3 align="center">A passionate Computer Application student & aspiring Software Developer 🚀</h3>
+<h3 align="center">A passionate BCA & aspiring Software Developer 🚀</h3>
 
 ---
 
 ## 🔥 About Me:
 - 🌱 I’m currently pursuing **BCA** in Mahakal Institute Of Technology, Ujjain.  
-- 💻 Interested in **Web Development, DSA, Open Source & AI/ML**.  
-- 🏆 Solving problems on **LeetCode, Codeforces, GeeksforGeeks**.  
+- 💻 Interested in **App Development, Web Development, DSA, Open Source & AI/ML**.  
+- 🏆 Solving problems on **LeetCode, CodeChef, HackerRank**.  
 - 📫 How to reach me: **sandeep.chouhan9202@gmail.com**  
 - ⚡ Fun fact: I love exploring new technologies & building projects.  
 
