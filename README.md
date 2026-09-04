@@ -4,10 +4,12 @@
 ---
 
 ## 🔥 About Me:
-- 🌱 I’m currently pursuing **BCA** in Mahakal Institute Of Technology, Ujjain.  
-- 💻 Interested in **App Development, Web Development, DSA, Open Source & AI/ML**.  
-- 🏆 Solving problems on **LeetCode, CodeChef, HackerRank**.  
-- 📫 How to reach me: **sandeep.chouhan9202@gmail.com**  
+- 🎓 I’m currently pursuing **BCA** in Mahakal Institute Of Technology, Ujjain.  
+- 💻 Passionate about **Java, Web Development, and Software Development**.
+- 🌱 Currently learning **Java, JavaScript, DSA, Git&GitHub**. 
+- 🏆 Solving problems on **LeetCode, CodeChef, HackerRank**.
+- 🤝 Interested in **Open Source** and exploring new technologies.
+- 📫 Reach me at **sandeep.chouhan9202@gmail.com**  
 - ⚡ Fun fact: I love exploring new technologies & building projects.  
 
 ---
